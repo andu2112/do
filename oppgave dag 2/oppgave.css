@@ -1,0 +1,25 @@
+.container {
+  max-width: 1200px;
+  margin: auto;
+}
+
+.tall {
+  font-size: 12rem;
+}
+
+section {
+  margin: 70px;
+}
+
+.blå {
+  background-color: blue;
+}
+.rød {
+  background-color: red;
+}
+.grønn {
+  background-color: green;
+}
+.orange {
+  background-color: orange;
+}
